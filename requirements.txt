@@ -1,6 +1,6 @@
-tensorflow==2.x.x
+tensorflow==2.16.1
 numpy
 pandas
 scikit-learn
-keras-contrib # Often needed for the CRF layer in Keras
-seqeval     # For calculating Precision, Recall, F1 for sequence labeling
+seqeval
+keras-contrib
