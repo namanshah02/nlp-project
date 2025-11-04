@@ -1,0 +1,6 @@
+tensorflow==2.x.x
+numpy
+pandas
+scikit-learn
+keras-contrib # Often needed for the CRF layer in Keras
+seqeval     # For calculating Precision, Recall, F1 for sequence labeling
